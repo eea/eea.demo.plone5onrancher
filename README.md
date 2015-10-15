@@ -24,3 +24,5 @@ See the screencasts:
 - [Deployment on Rancher PaaS](https://youtu.be/rMRRDICdyDY)
 - [Rolling upgrade and rollback on Rancher](https://youtu.be/lhSQpOMJGiQ)
 
+See also the [lightning talks slides](https://docs.google.com/presentation/d/1f7tUMlMJwkFrZ2K3zTPPePmAoKMQ3ssJhoiVsgGxkb4/edit?usp=sharing) from Plone conf 2015
+
