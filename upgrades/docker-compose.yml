@@ -1,0 +1,9 @@
+# docker-compose used for doing a rolling upgrade of plone
+# http://docs.rancher.com/rancher/rancher-compose/upgrading/
+
+app1:
+# already running, does not need any upgrade config
+app2:
+  image: eeacms/plone
+  links:
+  - zeo:zeo

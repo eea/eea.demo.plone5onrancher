@@ -1,0 +1,22 @@
+loadbalancer:
+  scale: 1
+  load_balancer_config:
+    name: Plone5 lb config
+app1:
+  scale: 2
+  health_check:
+    port: 80
+    interval: 2000
+    unhealthy_threshold: 3
+    request_line: ''
+    healthy_threshold: 2
+    response_timeout: 2000
+zeo:
+  scale: 1
+  health_check:
+    port: 8100
+    interval: 2000
+    unhealthy_threshold: 3
+    request_line: ''
+    healthy_threshold: 2
+    response_timeout: 2000
