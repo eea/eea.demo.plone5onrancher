@@ -24,5 +24,3 @@ See the screencasts:
 - [Deployment on Rancher PaaS](https://youtu.be/rMRRDICdyDY)
 - [Rolling upgrade and rollback on Rancher](https://youtu.be/lhSQpOMJGiQ)
 
-
- - setup up the rancher-compose variable
